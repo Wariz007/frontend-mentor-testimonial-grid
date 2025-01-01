@@ -40,7 +40,7 @@ body{
 }
 /*main container of the items*/
 .grid-container{
-    width: min(95%, 85rem);
+    width: min(95%, 75rem);
     margin-inline: auto;
     padding-block: 2rem;
     display: grid;
